@@ -1,2 +1,2 @@
 # NPJcode
-The code will be completed in the future
+The code will be updated in the future
